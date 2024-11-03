@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-esmaeilpour&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left">
+
   <svg width="95" height="32" viewBox="0 0 95 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M90 0H31V32H90C92.7614 32 95 29.7614 95 27V5C95 2.23858 92.7614 0 90 0Z" fill="#0F1418"/>
 <path d="M31 0H5C2.23858 0 0 2.23858 0 5V27C0 29.7614 2.23858 32 5 32H31V0Z" fill="#1DA1F2"/>
@@ -16,4 +16,4 @@
 </linearGradient>
 </defs>
 </svg>
-</p>
+
