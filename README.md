@@ -1,6 +1,12 @@
 ## Hi there Welcome to my coding space 💻
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-esmaeilpour&theme=discord)](https://github.com/ryo-ma/github-profile-trophy);
+
+👋 Hi, I'm Mohammad Esmaeilpour. I'm a passionate Front-End Developer who specializes in Next.js, React, and TypeScript.  
+🚀 With a keen eye for detail, I build efficient, scalable, and responsive web applications.  
+💻 Skilled in **JavaScript**, **Tailwind CSS**, and **Material-UI**, I love turning complex ideas into elegant solutions.
+
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-esmaeilpour&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Programming language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
