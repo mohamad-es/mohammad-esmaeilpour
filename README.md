@@ -1,9 +1,9 @@
-## Hi there Welcome to my coding space 💻
+Hi, I'm Mohammad Esmaeilpour!
+I'm a Front-End Developer specializing in Next.js, React, and TypeScript.
 
+I thrive on building scalable, high-performance web applications and delivering seamless user experiences. Problem-solving is at the core of my work—I enjoy tackling challenges and finding innovative solutions.
 
-👋 Hi, I'm Mohammad Esmaeilpour. I'm a passionate Front-End Developer who specializes in Next.js, React, and TypeScript.  
-🚀 With a keen eye for detail, I build efficient, scalable, and responsive web applications.  
-💻 Skilled in **JavaScript**, **Tailwind CSS**, and **Material-UI**, I love turning complex ideas into elegant solutions.
+I love working in collaborative environments, learning from others, and sharing my knowledge to help teams grow and succeed.
 
 
 
