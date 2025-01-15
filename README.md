@@ -1,11 +1,4 @@
-Hi, I'm Mohammad Esmaeilpour!
-I'm a Front-End Developer specializing in Next.js, React, and TypeScript.
-
-I thrive on building scalable, high-performance web applications and delivering seamless user experiences. Problem-solving is at the core of my work—I enjoy tackling challenges and finding innovative solutions.
-
-I love working in collaborative environments, learning from others, and sharing my knowledge to help teams grow and succeed.
-
-
+Hi, I'm Mohammad Esmaeilpour a passionate frontend developer with 3 years of experince.
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,5 +14,3 @@ I love working in collaborative environments, learning from others, and sharing 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-esmaeilpour&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
